@@ -1,0 +1,14 @@
+# ninja log v6
+14	101	7534643391236004	.qt/qml_imports/qmloscilloscope_build.cmake	4cabe496468fd88
+14	101	7534643391236004	C:/Qt/Examples/Qt-6.7.2/charts/qmloscilloscope/build/Desktop_Qt_6_7_2_MinGW_64_bit-Debug/.qt/qml_imports/qmloscilloscope_build.cmake	4cabe496468fd88
+101	589	7534643395503564	qmloscilloscope_autogen/timestamp	8f2e22d40548f468
+101	589	7534643395503564	qmloscilloscope_autogen/mocs_compilation.cpp	8f2e22d40548f468
+101	589	7534643395503564	C:/Qt/Examples/Qt-6.7.2/charts/qmloscilloscope/build/Desktop_Qt_6_7_2_MinGW_64_bit-Debug/qmloscilloscope_autogen/timestamp	8f2e22d40548f468
+101	589	7534643395503564	C:/Qt/Examples/Qt-6.7.2/charts/qmloscilloscope/build/Desktop_Qt_6_7_2_MinGW_64_bit-Debug/qmloscilloscope_autogen/mocs_compilation.cpp	8f2e22d40548f468
+594	632	7534643396574359	.qt/rcc/qrc_resources.cpp	4012b031af860b93
+594	632	7534643396574359	C:/Qt/Examples/Qt-6.7.2/charts/qmloscilloscope/build/Desktop_Qt_6_7_2_MinGW_64_bit-Debug/.qt/rcc/qrc_resources.cpp	4012b031af860b93
+643	694	7534643396705027	CMakeFiles/qmloscilloscope.dir/build/Desktop_Qt_6_7_2_MinGW_64_bit-Debug/.qt/rcc/qrc_resources.cpp.obj	69a1b5864cc234c4
+633	1555	7534643396611521	CMakeFiles/qmloscilloscope.dir/qmloscilloscope_autogen/mocs_compilation.cpp.obj	7b1946f41e905e47
+639	2307	7534643396665129	CMakeFiles/qmloscilloscope.dir/main.cpp.obj	ae43fcc1baae228c
+636	2409	7534643396642415	CMakeFiles/qmloscilloscope.dir/datasource.cpp.obj	8e68d7cfa3b68fdc
+2409	2696	7534643414377150	qmloscilloscope.exe	f55390d2b6ea665e

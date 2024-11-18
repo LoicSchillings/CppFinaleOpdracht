@@ -1,0 +1,9 @@
+<RCC>
+  <qresource prefix="/">
+    <file alias="qml/qmloscilloscope/ControlPanel.qml">C:/Qt/Examples/Qt-6.7.2/charts/qmloscilloscope/qml/qmloscilloscope/ControlPanel.qml</file>
+    <file alias="qml/qmloscilloscope/MultiButton.qml">C:/Qt/Examples/Qt-6.7.2/charts/qmloscilloscope/qml/qmloscilloscope/MultiButton.qml</file>
+    <file alias="qml/qmloscilloscope/ScopeView.qml">C:/Qt/Examples/Qt-6.7.2/charts/qmloscilloscope/qml/qmloscilloscope/ScopeView.qml</file>
+    <file alias="qml/qmloscilloscope/main.qml">C:/Qt/Examples/Qt-6.7.2/charts/qmloscilloscope/qml/qmloscilloscope/main.qml</file>
+  </qresource>
+</RCC>
+
